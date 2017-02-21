@@ -1,0 +1,17 @@
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\bin\Debug\CarFinderGame.exe.config
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\bin\Debug\CarFinderGame.exe
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\bin\Debug\CarFinderGame.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\bin\Debug\CarFinder.dll
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\bin\Debug\CarFinder.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\CarFinderGame.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\MainWindow.g.cs
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\App.g.cs
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\CarFinderGame_MarkupCompile.cache
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\CarFinderGame_MarkupCompile.lref
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\MainWindow.baml
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\CarFinderGame.g.resources
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\CarFinderGame.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\CarFinderGame.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\CarFinderGame.exe
+C:\Users\admin\documents\visual studio 2015\Projects\CarFinder\CarFinderGame\obj\Debug\CarFinderGame.pdb

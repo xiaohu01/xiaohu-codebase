@@ -1,0 +1,11 @@
+FinderName;CarFound;InitialPosition;Velocity;Position;Time
+GoldenSectionCarFinder;True;635;350;357635;1020
+BinaryCarFinder;True;635;350;358335;1022
+GoldenSectionCarFinder;True;635;350;357635;1020
+BinaryCarFinder;True;635;350;358335;1022
+GoldenSectionCarFinder;True;635;350;357635;1020
+BinaryCarFinder;True;635;350;358335;1022
+BinaryCarFinder;True;635;350;358335;1022
+GoldenSectionCarFinder;True;635;350;364285;1039
+BinaryCarFinder;True;635;350;358335;1022
+GoldenSectionCarFinder;True;635;350;364285;1039
